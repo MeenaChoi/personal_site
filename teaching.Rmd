@@ -69,7 +69,7 @@ March 2013.
 
 ### Teaching assistant
 
-- Jan. 2010 - Dec. 2011, Department of Statistivs, Purdue University, West Lafayette, IN, USA
+- Jan. 2010 - Dec. 2011, Department of Statistics, Purdue University, West Lafayette, IN, USA
 - Lecturer: *Elementary Statistical Methods*
 - Recitations and grading: *Elementary Statistical Methods*
 - Grading: *Applied Regression Analysis*, *Design of Experiments*, *Intermediate Statistical Methodology*, *Advanced Statistical Methodology*, *Statistical Methods For Bioinformatics and Computational Biology*
