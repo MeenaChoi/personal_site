@@ -1,0 +1,41 @@
+---
+title: "Presentations"
+output: html_document
+---
+
+### Invited talks
+1. "Statistical analysis with MSstats". Session : Proteomics in the Era of large datasets, Northeast Rigional Life
+Sciences Core Directors (NERLSCD), Boston, USA, October 2016.
+
+2. "Computational and statistics for quantitative proteomics", Workshop, Annual Conference of the US Human
+Proteome Organization (US HUPO). Boston, USA, March 2016.
+
+3. "Experimental design and statistics, Statistical analysis with MSstats". Bioinformatics seminar, Seoul National
+University, College of Medicine. Seoul, Korea, October 2014.
+
+4. "MSstats as an external tool in Skyline - an R package for statistical analysis of quantitative mass spectrometrybased
+proteomic experiments". Third annual Skyline user group meeting at American society for Mass Spectrometry
+(ASMS). Baltimore, USA, June 2014.
+
+
+
+
+### Poster presentations
+1. "New developments in MSstats: statistical process control, LoD/LoQ, and relative protein quantification with
+split plot approach". *Annual Conference of American Society for Mass Spectrometry (ASMS)*. San Antonio,
+USA, 2016.
+
+2. "Relative protein quantification in mass spectrometry-based proteomics: a split plot approach". *Annual Conference
+of the US Human Proteome Organization (US HUPO)*. Boston, USA, 2016.
+
+3. "MSstats: an R package for statistical analysis of quantitative mass spectrometry-based proteomic experiments".
+*Annual Conference of the US Human Proteome Organization (US HUPO)*. Seattle, USA, 2014.
+
+4. "Statistical protein quantification and interpretation in label-free and label-based LC-MS and SRM workflows".
+*World Congress of the Human Proteome Organization (HUPO)*. Boston, USA, 2012.
+
+5. "SRMstats: An Open-Source Software Suite for Protein quantification in SRM Experiments". *World Congress
+of the Human Proteome Organization (HUPO)*. Geneva, Switzerland, 2011.
+
+
+

@@ -1,0 +1,17 @@
+---
+title: "Meena"
+---
+
+- Postdoctoral Research Associate at Northeastern University, Boston, MA, USA
+- Lead developer and maintainer for MSstats : [msstats.org](https://msstats.org)
+- ![CV](MCCV.pdf)
+- [GitHub](https://github.com/MeenaChoi)
+- [![logo](images/GitHub-Mark-32px.png)](https://github.com/MeenaChoi)
+
+#### __Research interests :__
+
+- Development of statistical methods, tools and sofware for the analysis of mass spectrometry-based proteomics
+and metabolomic data
+- Integrative analyses of genomic, proteomic and metabolomic experiments
+- Interdisciplinary research for biomarker discovery of disease
+- Statistical consulting for design and analysis of experiments

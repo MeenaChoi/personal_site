@@ -1,0 +1,75 @@
+---
+title: ""
+output: html_document
+---
+
+
+### Organizer / instructor of short courses
+
+1. Co-instructor, [two-day short course](https://skyline.ms/project/home/software/Skyline/events/2017%20ASMS%20Course%20-%20Quantitative%20Proteomics/begin.view),["Summer Short course #21 : Case Studies in Quantitative Proteomics"](http://www.asms.org/conferences/annual-conference/short-courses/two-day-courses), Annual Conference of American Society for Mass Spectrometry (ASMS), Indianapolis, USA, June 2017.
+
+2. Organizer and instructor, [two-week course](https://github.com/MayInstitute/MayInstitute2017), [“May Institute - Computation and statistics for mass spectrometry
+and proteomics”](http://computationalproteomics.ccis.northeastern.edu/), Northeastern University, Boston, USA, May 2017.
+
+3. Co-instructor, [one-day satellite workshop]((https://github.com/MeenaChoi/ABRF2017_satellite_workshop)), “Introduction to statistical methods for life scientists”, Annual
+meeting of the Association of Biomolecular Resource Facilities (ABRF), San Diego, USA, March 2017.
+
+4. Co-instructor, [two-day short course](https://github.com/MeenaChoi/USHUPO2017_shortcourse), [“Design and analysis of quantitative proteomic experiments: Introduction to statistical methods and practical examples using Skyline, R, and MSstats”](https://www.ushupo.org/Conference/ShortCourses/tabid/68/Default.aspx), Annual Conference of the
+US Human Proteome Organization (US HUPO), San Diego, USA, March 2017.
+
+5. Speaker, one-week course [“Targeted proteomics : Experimental design and data analysis - Data interpretation
+and statistical analysis”](http://events.embo.org/16-targeted-proteomics/), EMBO practical course on targeted proteomics, Barcelona, Spain, November 2016.
+
+6. Co-instructor, one-week course [“Design and analysis of quantitative proteomic experiments”](http://events.embo.org/16-proteomics/). EMBO advanced proteomics workshop, Varna, Italy, August 2016.
+
+7. Co-instructor, one-week course [“Computation and statistics for targeted proteomics”](http://olga-vitek-lab.org/neu-short-course/), Northeastern University, Boston, May 2016.
+
+8. Co-instructor, one-day course “Design and analysis of quantitative proteomic experiments : Introduction
+to statistical methods and practical examples using Skyline”, Annual Conference of the US Human Proteome
+Organization (US HUPO), Boston, March 2016.
+
+9. Co-instructor, one-week course [“Targeted Proteomics”](https://skyline.ms/project/home/software/Skyline/events/2016%20Buck%20Institute%20Course/begin.view?), Buck Institute, San Francisco, March 2016.
+
+10. Co-instructor, one-week course “Mass spectrometry-based proteomics: computation and statistics for discovery
+and targeted analysis”, Northeastern University, Boston, May 2015.
+
+10. Co-instructor, one-day course “Design and analysis of quantitative proteomic experiments : Introduction
+to statistical methods and practical examples using Skyline”, Annual Conference of the US Human Proteome
+Organization (US HUPO), Tempe, March 2015.
+
+11. Co-instructor, one-week course “Targeted quantitative proteomics course”, University of Washington, Seattle,
+March 2015.
+
+12. Co-instructor, two-day workshop [“Statistical considerations for experimental design and data analysis”](http://www.bio.iitb.ac.in/~sanjeeva/psi2014/?page_id=2935), 6th
+Annual Meeting of Proteomics Society, India (PSI), Mumbai, India, December 2014.
+
+13. Co-instructor, two-day workshop “Using MSstats for statistical analysis of targeted proteomic data”, The 1st
+SNU International Computational Bioinformatics workshop, Seoul, Korea, October 2014.
+
+14. Speaker, one-week course “Targeted proteomics : Experimental design and data analysis - Data interpretation
+and statistical analysis”, EMBO practical course on targeted proteomics, Barcelona, Spain, September 2014.
+
+15. Co-instructor, one-week course “Design and analysis of quantitative proteomic experiments”. 8th European
+Summer School in Proteomics, Brixen/Bressanone, Italy, August 2014.
+
+16. Co-instructor, one-day course “Design and analysis of quantitative proteomic experiments : Introduction
+to statistical methods and practical examples using Skyline”. Annual Conference of the US Human Proteome
+Organization (US HUPO), Seattle, April 2014.
+
+17. Co-instructor, one-week course [“Targeted quantitative proteomics course”](https://skyline.ms/project/home/software/Skyline/events/2014%20UW%20Course/begin.view). University of Washington, Seattle,
+March 2014.
+
+18. Co-instructor, one-week course “Selected Reaction Monitoring”. ETH Zürich, Switzerland, February 2014.
+
+19. Co-instructor, one-week course “Selected Reaction Monitoring”. ETH Zürich, Switzerland, July 2013.
+
+20. Co-instructor, one-day course “Statistical methods for quantitative proteomics: design of experiments and
+interpretation of results”. Annual Conference of the US Human Proteome Organization (US HUPO), Baltimore,
+March 2013.
+
+### Teaching assistant
+
+- Jan. 2010 - Dec. 2011, Department of Statistivs, Purdue University, West Lafayette, IN, USA
+- Lecturer: *Elementary Statistical Methods*
+- Recitations and grading: *Elementary Statistical Methods*
+- Grading: *Applied Regression Analysis*, *Design of Experiments*, *Intermediate Statistical Methodology*, *Advanced Statistical Methodology*, *Statistical Methods For Bioinformatics and Computational Biology*

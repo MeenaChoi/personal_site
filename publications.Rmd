@@ -1,0 +1,50 @@
+---
+title: "Publications"
+output: html_document
+---
+
+1. E. Caron, R. Roncagalli, T. Hase, W. Wolski, T. Hase, **M. Choi**, M. G. Menoita, S. Durand, A. Garcia-Blesa,
+I. Fierro-Monti, T. Sajic, M. Heusel, T. Weiss, M. Malissen, R. Schlapbach, B. Collins, S. Ghosh, H. Kitano, R.
+Aebersold, B. Malissen, M. Gstaiger. "Precise temporal profiling of GRB2 protein complexes in primary T cells
+using SWATH mass spectrometry". *Cell Reports*, DOI:http://dx.doi.org/10.1016/j.celrep.2017.03.019, 2017.
+
+2. S.E. Abbatiello, B.L. Ackermann, C.H. Borchers, R.A. Bradshaw, S.A. Carr, R.J. Chalkley, **M. Choi**, E.W. Deutsch,
+B. Domon, A.N. Hoofnagle, H. Keshishian, E. Kuhn, D.C. Liebler, M.J. MacCoss, B. MacLean, D.R. Mani, H.
+Neubert, D. Smith, O. Vitek, L. Zimmerman. "New Guidelines for Publication of Manuscripts Describing Development
+and Application of Targeted Mass Spectrometry Measurements of Peptides and Proteins", *Molecular
+& Cellular Proteomics*, doi:10.1074/mcp.E117.067801, 2017.
+
+3. **M. Choi^#^**, Z. F. Eren-Dogu^#^, C. Colangelo, J. Cottrell, M. R. Hoopmann, E. A. Kapp, S. Kim, H. Lam, T. A.
+Neubert, M. Palmblad, B. S. Phinney, S. T. Weintraub, B. MacLean, O. Vitek. "ABRF Proteome Informatics
+Research Group (iPRG) 2015 Study: Detection of differentially abundant proteins in label-free quantitative
+LC-MS/MS experiments". *Journal of Proteome Research*, doi:10.1021/acs.jproteome.6b00881, 2017.
+
+4. C. Terfve, E. Sabidó, Y.Wu, E.Gonc¸alves, **M. Choi**, S. Vaga, O. Vitek, J. Saez-Rodriguez, R. Aebersold. "Systemwide
+quantitative proteomics of the metabolic syndrome in mice: genotypic and dietary effects". *Journal of
+Proteome Research*, doi:10.1021/acs.jproteome.6b00815, 2016.
+
+5. E. Borràs, E. Cantó, **M. Choi**, L. M. Villar, J.C. Álvarez-Cermenño, C. Chiva, X. Montalban, O. Vitek, M. Comabella,
+E. Sabidó. "Protein-based classifier to predict conversion from Clinically Isolated Syndrome to Multiple
+Sclerosis". *Molecular & Cellular Proteomics*, doi:10.1074/mcp.M115.053256, 2015.
+
+6. S. Surinova, **M. Choi**, S. Tao, P. Schüffler, C. Chang, T. Clough, K. Vysloužil, M. Khoylou, J. Srovnal, Y. Liu, M.
+Matondo, R.Hüttenhain, H.Weisser, J. M. Buhmann, M. Hajdúch, H. Brenner, O. Vitek, R. Aebersold. "Prediction
+of colorectal cancer diagnosis based on circulating plasma protein". *EMBO Molecular Medicine*, 7(9), 1166-1178,
+2015.
+
+7. S. Surinova, L. Radová, **M. Choi**, J. Srovnal, H. Brenner, O. Vitek, M. Hajdúch, R. Aebersold, "Non-invasive
+prognostic protein biomarker signatures associated with colorectal cancer". *EMBO Molecular Medicine*, 7(9),
+1153-1165, 2015.
+
+8. **M. Choi**, C. Chang, T. Clough, D. Broudy, T. Killeen, B. MacLean, O. Vitek. "MSstats: an R package for statistical
+analysis of quantitative mass spectrometry-based proteomic experiments". *Bioinformatics*, 30:2524-2536, 2014.
+
+9. D. Broudy, T. Killeen, **M. Choi**, N. Shulman, D. Mani, S. Abbatiello, D. Mani, R. Ahmad, A. Sahu, B. Schilling,
+K.Tamura, Y. Boss, V. Sharma, B. Gibson, S. Carr, O. Vitek, M. MacCoss, B. MacLean. "A framework for installable
+external tools in Skyline". *Bioinformatics*. 30:2521-2523, 2014.
+
+10. F. Cerciello, **M. Choi**, A. Nicastri, D. Bausch-Fluck, A. Ziegler, O. Vitek, E. Felley-Bosco, R. Stahel, R. Aebersold, B.Wollscheid. "Identifcation of a seven glycopeptide signature for malignant pleural mesothelioma in human
+serum by selected reaction monitoring". *Clinical Proteomics*, 10:16, 2013.
+
+For all papers: [Link to PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Meena+Choi), [Google scholar](https://scholar.google.com/citations?user=S9ccf_oAAAAJ&hl=en)
+
