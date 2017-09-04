@@ -1,11 +1,10 @@
 ---
-title: "Meena"
+title: "Meena Choi"
 ---
 
-- Postdoctoral Research Associate at Northeastern University, Boston, MA, USA
-- Lead developer and maintainer for MSstats : [msstats.org](https://msstats.org)
-- ![CV](MCCV.pdf)
-- [GitHub](https://github.com/MeenaChoi)
+- **Postdoctoral Research Associate** at Northeastern University, Boston, MA, USA
+- Lead developer and maintainer for [**MSstats**]((https://msstats.org)), [R package in Bioconductor](http://bioconductor.org/packages/release/bioc/html/MSstats.html) : 
+- ![CV](https://github.com/MeenaChoi/personal_site/blob/master/MCCV.pdf)
 - [![logo](images/GitHub-Mark-32px.png)](https://github.com/MeenaChoi)
 
 #### __Research interests :__
